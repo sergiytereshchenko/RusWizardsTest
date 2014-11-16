@@ -1,0 +1,12 @@
+G:\Work\C#\Projects\RusWizardsTest\RusWizardsTest\bin\RusWizardsTest.dll.config
+G:\Work\C#\Projects\RusWizardsTest\RusWizardsTest\bin\RusWizardsTest.dll
+G:\Work\C#\Projects\RusWizardsTest\RusWizardsTest\bin\RusWizardsTest.pdb
+G:\Work\C#\Projects\RusWizardsTest\RusWizardsTest\obj\Debug\RusWizardsTest.csprojResolveAssemblyReference.cache
+G:\Work\C#\Projects\RusWizardsTest\RusWizardsTest\obj\Debug\RusWizardsTest.dll
+G:\Work\C#\Projects\RusWizardsTest\RusWizardsTest\obj\Debug\RusWizardsTest.pdb
+G:\Work\C#\TestProjects\RusWizardsTest\RusWizardsTest\bin\RusWizardsTest.dll.config
+G:\Work\C#\TestProjects\RusWizardsTest\RusWizardsTest\bin\RusWizardsTest.dll
+G:\Work\C#\TestProjects\RusWizardsTest\RusWizardsTest\bin\RusWizardsTest.pdb
+G:\Work\C#\TestProjects\RusWizardsTest\RusWizardsTest\obj\Debug\RusWizardsTest.csprojResolveAssemblyReference.cache
+G:\Work\C#\TestProjects\RusWizardsTest\RusWizardsTest\obj\Debug\RusWizardsTest.dll
+G:\Work\C#\TestProjects\RusWizardsTest\RusWizardsTest\obj\Debug\RusWizardsTest.pdb

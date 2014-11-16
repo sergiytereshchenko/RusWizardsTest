@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="RusWizardsDbContext">
+  <DataContextMoniker Name="/RusWizardsDbContextDataContext" />
+  <nestedChildShapes>
+    <classShape Id="a5c947b6-cf73-4773-868c-ce788a58e75b" absoluteBounds="1, 1.375, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/RusWizardsDbContextDataContext/Employee" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7d4f4a92-9c10-4147-9f48-cae987160dfd" absoluteBounds="1.0150000000000001, 1.835, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
